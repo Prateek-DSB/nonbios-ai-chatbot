@@ -1,0 +1,36 @@
+Nonbios.AI Portfolio Website - FAQ Manual
+
+This document serves as the Frequently Asked Questions (FAQ) manual for the Nonbios.AI Portfolio Website. It provides formal, reliable information that can be used as a reference source for a RAG-based customer support chatbot.
+
+ACCOUNT SETUP & LOGIN
+
+Q: How do I create an account?
+A: Visit the Nonbios.AI portfolio homepage and click 'Sign Up'. Fill in the required details such as your name, email, and password. You will receive a confirmation email to verify your account.
+
+Q: I forgot my password. What should I do?
+A: Click 'Forgot Password' on the login page. Enter your registered email address and follow the instructions in the password reset email.
+
+Q: Can I log in using social accounts?
+A: Currently, Nonbios.AI supports login via Google and LinkedIn for faster authentication.
+
+PRODUCT FEATURES & USAGE
+
+Q: What can I find on the Nonbios.AI portfolio website?
+A: The website showcases AI-driven projects, portfolio highlights, and case studies built using the Nonbios.AI platform.
+
+Q: Can I interact with AI demos on the site?
+A: Yes, the site includes interactive demos and chat-based showcases powered by Nonbios.AI's models.
+
+Q: How do I request a portfolio demo or consultation?
+A: Use the 'Request Demo' or 'Contact' form to book a session. You will receive a confirmation email within 24 hours.
+
+BILLING & SUBSCRIPTIONS
+
+Q: Is there a subscription plan for portfolio access?
+A: Basic portfolio access is free. For premium or enterprise-level project consultation, pricing is available on request.
+
+Q: Which payment methods are accepted?
+A: We accept all major credit/debit cards, UPI, and corporate invoicing options for enterprise clients.
+
+Q: Can I get an invoice for my purchase?
+A: Yes, invoices are automatically emailed after successful payment and can also be downloaded from your account dashboard.
